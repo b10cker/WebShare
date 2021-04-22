@@ -8,9 +8,56 @@
 }
 
 .more_info {
+	
 	font-size: 0.5vw;
 	color: #9acff2;
 }
+
+.image_demo {
+	position: relative;
+}
+
+.image_demo img{
+	width: 20vw;
+	height: 15vw;
+	padding: 0;
+}
+
+.image_title {
+ 	font-size: 1vw;
+	padding: 0;
+	margin: 0;
+	color: coral;
+}
+.zhuanTi > p{
+	padding: 0;
+	margin: 0;
+	font-size: 4vw;
+	color: darkorchid;
+}
+
+.zhuanTi section {
+	margin-bottom: 3vh;
+}
+
+#head_info {
+	padding-left: 5vw;
+	padding-right: 5vw;
+	border: 2px solid;
+}
+
+#head_info p {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+#head_info a {
+	color: #935d8c;
+	font-style: italic;
+}
+
+
+
 
 /* ---------------------------------------- */
 html, body, div, span, applet, object,
